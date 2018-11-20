@@ -23,8 +23,6 @@ body, html {
 }
 
 .target-element {
-
-
 }
 
 .emu {
@@ -34,12 +32,9 @@ body, html {
   height: auto;
 }
 
-
 /* Header */
 
 * {box-sizing: border-box;}
-
-
 
 .header {
   overflow: hidden;
@@ -86,9 +81,6 @@ body, html {
   float: right;
 }
 
-
-
-
 .play a {
   font-family: 'Neuton', serif;
   font-weight: 700;
@@ -116,11 +108,6 @@ body, html {
   background-color: dodgerblue;
   color: white;
 }
-
-
-
-
-
 
 @media screen and (max-width: 500px) {
   .header a {
